@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Liz & welcome to my github page! I am a mathematician, physicist, and urban data scientist actively searching for job opportunities in mainly local government & public sector, consulting, NGOs, and think tanks.
+- 👋 Hi, I’m Liz & welcome to my github page! I am a mathematician, physicist, and urban data scientist actively searching for job opportunities in local government & public sector, consulting, NGOs, and think tanks.
 
 - 👩🏻‍🎓 I’m currently in my masters degree at NYU's Center for Urban Science & Progress where I am learning to apply machine learning techniques, mainly using open source data, to quantify & solve societal issues that impact urban communities. I am extremely interested in the topics of educational equity, criminal justice, affordable housing & residential segregation, and data & innovation in the public sector. I look forward to sharing the projects I complete in my program, as well as any personal projects, with the public on my github account. 
 
