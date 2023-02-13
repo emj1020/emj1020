@@ -6,7 +6,7 @@
 
 - 💃🏻 In my free time I enjoy cycling, yoga, exploring new resturaunts and museums, reading non-fiction, listening to true crime podcasts and hanging out with my dog!
 
-- 📫 If you are interested in connecting, you can reach me on [linkedin](www.linkedin.com/in/elizabeth-johnson-65835414a) or by email @ emjohnson1020@gmail.com
+- 📫 If you are interested in connecting, you can reach me on [LinkedIn](www.linkedin.com/in/elizabeth-johnson-65835414a) or by email @ emjohnson1020@gmail.com
 
 <!---
 emj1020/emj1020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
